@@ -1,0 +1,139 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Un paraíso que debemos cuidar</title>
+</head>
+
+<body style="background-color: #F5EDDF; color: #26332F; font-family: Arial, sans-serif;">
+
+    <header style="background-color: #26332F; padding: 20px;">
+        <h1 style="color: #5BAEA6;">🌋 Lanzarote Natural</h1>
+        <p style="color: white;">Un paraíso que debemos cuidar</p>
+
+        <div style="background-color: #E5D8C3; padding: 20px; border-radius: 12px;">
+            <h2 style="color: #26332F;">Un paraíso que debemos cuidar</h2>
+            <p>
+                Lanzarote es nuestro hogar.
+                Proteger sus paisajes, sus playas y sus tradiciones
+                es responsabilidad de todos.
+            </p>
+            <a href="#problema" style="background-color: #DF805F; color: white; padding: 10px; text-decoration: none;">
+                Descubre cómo ayudar
+            </a>
+        </div>
+    </header>
+
+    <main>
+
+        <section id="problema" style="background-color: #F5EDDF; padding: 20px;">
+            <h2 style="color: #26332F;">Cuidemos Lanzarote</h2>
+
+            <p style="color: #26332F;">
+                Lanzarote es una isla con paisajes únicos, tradiciones
+                y lugares de gran valor natural y cultural. Sin embargo,
+                el exceso de turismo y la acumulación de residuos pueden
+                perjudicar el medioambiente y deteriorar estos espacios.
+                Por eso, debemos actuar para mantener nuestra isla limpia
+                y conservar su patrimonio para las generaciones futuras.
+            </p>
+        </section>
+
+        <section id="razones" style="background-color: #E5D8C3; padding: 20px;">
+            <h2 style="color: #26332F;">¿Por qué debemos proteger Lanzarote?</h2>
+
+            <p style="color: #26332F;">
+                Cada pequeña acción cuenta para conservar la belleza
+                y la identidad de nuestra isla.
+            </p>
+
+            <div style="background-color: white; padding: 20px; border-radius: 12px; margin-bottom: 15px; border-top: 5px solid #5BAEA6;">
+                <h3 style="color: #347D75;">🏝️ Proteger los paisajes</h3>
+                <p>
+                    Cuidar las playas, los volcanes y los espacios
+                    naturales para evitar su deterioro y conservar
+                    la biodiversidad.
+                </p>
+            </div>
+
+            <div style="background-color: white; padding: 20px; border-radius: 12px; margin-bottom: 15px; border-top: 5px solid #5BAEA6;">
+                <h3 style="color: #347D75;">♻️ Reducir los residuos</h3>
+                <p>
+                    Reciclar, utilizar menos plásticos y no dejar
+                    basura en las playas, senderos ni otros
+                    espacios naturales.
+                </p>
+            </div>
+
+            <div style="background-color: white; padding: 20px; border-radius: 12px; margin-bottom: 15px; border-top: 5px solid #5BAEA6;">
+                <h3 style="color: #347D75;">🎨 Conservar las tradiciones</h3>
+                <p>
+                    Valorar la cultura canaria, la pesca tradicional,
+                    la gastronomía y el patrimonio de Lanzarote.
+                </p>
+            </div>
+        </section>
+
+        <section id="accion" style="background-color: #E5D8C3; padding: 20px;">
+            <h2 style="color: #26332F;">Pasa a la acción</h2>
+
+            <p style="color: #26332F;">
+                Todos podemos colaborar. Sigue estos tres pasos
+                para ayudar a cuidar nuestra isla.
+            </p>
+
+            <div style="background-color: white; padding: 20px; border-radius: 12px; margin-bottom: 15px;">
+                <h3 style="color: #347D75;">1. Infórmate</h3>
+                <p>
+                    Aprende sobre los problemas medioambientales
+                    que afectan a Lanzarote y comparte información
+                    para concienciar a otras personas.
+                </p>
+            </div>
+
+            <div style="background-color: white; padding: 20px; border-radius: 12px; margin-bottom: 15px;">
+                <h3 style="color: #347D75;">2. Actúa responsablemente</h3>
+                <p>
+                    Reduce los residuos, recicla y respeta los
+                    espacios naturales cuando visites playas,
+                    volcanes y senderos.
+                </p>
+            </div>
+
+            <div style="background-color: white; padding: 20px; border-radius: 12px; margin-bottom: 15px;">
+                <h3 style="color: #347D75;">3. Comparte y participa</h3>
+                <p>
+                    Anima a tus amigos y familiares a cuidar
+                    Lanzarote y participa en actividades de
+                    limpieza y conservación de la isla.
+                </p>
+            </div>
+        </section>
+
+        <section style="background-color: #347D75; color: white; padding: 25px;">
+            <h2 style="color: white;">El futuro de Lanzarote está en nuestras manos</h2>
+
+            <p>
+                Una isla limpia y cuidada es un tesoro para todos.
+                ¡Ayúdanos a protegerla!
+            </p>
+
+            <a href="https://www.cabildodelanzarote.com/"
+               target="_blank"
+               style="background-color: #DF805F; color: white; padding: 10px; text-decoration: none;">
+                Descubre cómo colaborar
+            </a>
+        </section>
+
+    </main>
+
+    <footer style="background-color: #26332F; color: white; padding: 20px;">
+        <p>Un paraíso que debemos cuidar 🌿</p>
+        <p>Proyecto Lanzarote Digital 2026: Mi Isla, Mi Reto</p>
+        <p>Digitalización · 4.º ESO</p>
+    </footer>
+
+</body>
+</html>
+```
